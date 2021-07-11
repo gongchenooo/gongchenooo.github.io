@@ -1,5 +1,4 @@
 # Welcome to Chen Gong's Pages
-This page is used to record my learning notes on reinforment learning, machine learning and some researches.
 ## Introduction
 上海交通大学2018级本科生，电子信息与电气工程学院计算机科学与技术专业（IEEE试点班）
 ## My Blogs
