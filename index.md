@@ -4,6 +4,7 @@
 ## My Blogs
 ### 1. 学习笔记：Reinformen Learning and Optimal Control
 [Chapter 0. 一些基础概念](https://blog.csdn.net/gongchen_/article/details/118655824)
+
 [Chapter 1. Exact Dynamic Programming](https://blog.csdn.net/gongchen_/article/details/118642757)
 
 ### 2. 学习笔记：Machine Learning Models and Codes
