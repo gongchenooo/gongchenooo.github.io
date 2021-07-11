@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: 公辰（Chen Gong）的主页
-decription: Page of Chen Gong
+title: 公辰（Chen Gong）
+description: Hello World!
 logo: photo.jpg
-show_downloads: true
+show_downloads: False
