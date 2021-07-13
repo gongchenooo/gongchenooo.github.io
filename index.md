@@ -7,7 +7,7 @@
 
 [Chapter 1. Exact Dynamic Programming](https://blog.csdn.net/gongchen_/article/details/118642757)
 
-### 2. 学习笔记：Machine Learning Models and Codes
+### 2. 学习笔记：[Machine Learning Models and Codes](https://github.com/gongchenooo/CS385-Machine-Learning)
 ## Contact
 e-main: gongchen@sjtu.edu.cn
 
