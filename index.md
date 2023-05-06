@@ -15,7 +15,7 @@ Database Systems for Advanced Applications: 26th International Conference, Taipe
 ### 2. <font color="#dd0000">[WWW'23]</font> [To Store or Not? Online Data Selection for Federated Learning with Limited Storage](https://dl.acm.org/doi/abs/10.1145/3543507.3583426). 
 **Chen Gong**, Zhenzhe Zheng, Yunfeng Shao, Bingshuai Li, Fan Wu, Guihai Chen. \
 Proceedings of the ACM Web Conference 2023, April 30-May 4, 2023, Austin, TX, USA.  **Acceptance rate** = 19.2% (365/1900). \
-[[PDF]](https://dl.acm.org/doi/abs/10.1145/3543507.3583426)  [[Video]](https://youtu.be/h9feBNoxLMo)  [[Slides]]()
+[[PDF]](https://dl.acm.org/doi/abs/10.1145/3543507.3583426)  [[Video]](https://youtu.be/h9feBNoxLMo)  [[Slides]](https://github.com/gongchenooo/gongchenooo.github.io/blob/gh-pages/WWW23-ODE-7min.pdf)
 
 ## Blogs
 ### 1. 学习笔记：Reinformen Learning and Optimal Control
