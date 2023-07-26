@@ -17,6 +17,13 @@ Database Systems for Advanced Applications: 26th International Conference, Taipe
 Proceedings of the ACM Web Conference 2023, April 30-May 4, 2023, Austin, TX, USA.  **Acceptance rate** = 19.2% (365/1900). \
 [[PDF]](https://dl.acm.org/doi/abs/10.1145/3543507.3583426)  [[Video]](https://youtu.be/h9feBNoxLMo)  [[Slides]](https://github.com/gongchenooo/gongchenooo.github.io/blob/gh-pages/WWW23-ODE-7min.pdf)
 
+
+### 3. <font color='dd0000'>[MM'23]</font>  [Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset](https://arxiv.org/pdf/2107.09889.pdf). 
+Wenxuan Liu, Tianyao He, **Chen Gong**, Ning Zhang, Hua Yang, Junchi Yan. \
+The 31st ACM International Conference on Multimedia.\
+[[PDF]](https://arxiv.org/pdf/2107.09889.pdf)
+
+
 ## Blogs
 ### 1. 学习笔记：Reinformen Learning and Optimal Control
 [Chapter 0. 一些基础概念](https://blog.csdn.net/gongchen_/article/details/118655824)
