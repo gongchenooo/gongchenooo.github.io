@@ -21,7 +21,7 @@ Proceedings of the ACM Web Conference 2023, April 30-May 4, 2023, Austin, TX, US
 ### 3. <font color='dd0000'>[MM'23]</font>  [Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset](https://dl.acm.org/doi/10.1145/3581783.3611831). 
 Wenxuan Liu, Tianyao He, **Chen Gong**, Ning Zhang, Hua Yang, Junchi Yan. \
 The 31st ACM International Conference on Multimedia. Acceptance rate = 29.3% (902/3072).\
-[[PDF]](https://arxiv.org/pdf/2107.09889.pdf)
+[[PDF]](https://dl.acm.org/doi/10.1145/3581783.3611831)
 
 
 ## Blogs
