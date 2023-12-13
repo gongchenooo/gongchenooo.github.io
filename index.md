@@ -3,7 +3,7 @@
 
 2018-2022 B.E.，IEEE Class (Computer Science)，Shanghai Jiao Tong University
 
-2022-2027(Expected) Ph.D.，Computer Science，Shanghai Jiao Tong University
+2022-2027(Expected) Ph.D.，Computer Science，Shanghai Jiao Tong University, advised by professor [Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/).
 
 ## Publications
 ### 1. <font color="#dd0000">[DASFAA'21]</font> [Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35). 
@@ -22,6 +22,9 @@ Proceedings of the ACM Web Conference 2023, April 30-May 4, 2023, Austin, TX, US
 Wenxuan Liu, Tianyao He, **Chen Gong**, Ning Zhang, Hua Yang, Junchi Yan. \
 The 31st ACM International Conference on Multimedia. Acceptance rate = 29.3% (902/3072).\
 [[PDF]](https://dl.acm.org/doi/10.1145/3581783.3611831)
+
+### 4. <font color='dd0000'>[submitted]</font> [Titan: An Online Two-Stage Data Selection Framework for On-Device Model Training]().
+Chen Gong, Zhenzhe Zheng, Fan Wu, Guihai Chen.
 
 
 ## Blogs
