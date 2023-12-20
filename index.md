@@ -36,9 +36,8 @@ Chen Gong, Zhenzhe Zheng, Fan Wu, Guihai Chen.
 ### 2. 学习笔记：[Machine Learning Models and Codes](https://github.com/gongchenooo/CS385-Machine-Learning)
 
 ## Contact
-E-mail: gongchen@sjtu.edu.cn
-
-Google Scholar: 
+[E-mail](gongchen@sjtu.edu.cn)  
+[Google Scholar](https://scholar.google.com/citations?user=HmEvi20AAAAJ&hl=zh-CN)
 
 Github: [link](https://github.com/gongchenooo)
 
