@@ -57,7 +57,7 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 - <div class="pubtitle">DASFAA 2021</div> &nbsp; <b>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions.</b> <br /> Tianzi Zang, Yanmin Zhu, <b>Chen Gong</b>, Haobing Liu, Bo Li. <br /> <u>International Conference on Database Systems for Advanced Applications (CCF-B).</u> [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)]
 
 # 📖 Educations
-- *202.09 - 2029.06 (expected)*, Ph.D. Candidate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
+- *2022.09 - 2027.06 (expected)*, Ph.D. Candidate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
 - *2018.09 - 2022.06*, IEEE Honored Class (major in computer science), Shanghai Jiao Tong University. 
 
 
