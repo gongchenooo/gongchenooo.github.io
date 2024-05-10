@@ -62,4 +62,4 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 
 # 💻 Internships
-- *2021.09 - 2022.09*, Huawei Noah’s Ark Laboratory, China.
+- *2021.09 - 2022.09*, Huawei Noah’s Ark Laboratory, Beijing, China.
