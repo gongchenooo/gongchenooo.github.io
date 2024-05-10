@@ -13,8 +13,8 @@ redirect_from:
     background: #BD666D;
     color: white;
     font-size: 13px;
-    padding: 1px 2px 1px 2px;
-    border-radius: 15px;
+    padding: 1px 4px 1px 4px;
+    border-radius: 8px;
     float: left;
     font-weight: bold;
 }
