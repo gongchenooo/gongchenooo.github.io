@@ -12,9 +12,9 @@ redirect_from:
 .pubtitle{
     background: #BD666D;
     color: white;
-    font-size: 14px;
+    font-size: 13px;
     padding: 1px 2px 1px 2px;
-    border-radius: 9px;
+    border-radius: 15px;
     float: left;
     font-weight: bold;
 }
