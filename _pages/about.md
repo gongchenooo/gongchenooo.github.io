@@ -54,7 +54,7 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 - <div class="pubtitle">MM 2023</div> &nbsp; <b>Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset.</b> <br /> Wenxuan Liu, Tianyao He, <u>Chen Gong</u>, Ning Zhang, Hua Yang, Junchi Yan. <br /> <u>Proceedings of the ACM International Conference on Multimedia (CCF-A)</u>. [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611831)][[Code](https://github.com/xuan301/BMMDet_MPDSet)]
 
-- <div class="pubtitle">DASFAA 2021</div> &nbsp; <u>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions.</u> <br /> Tianzi Zang, Yanmin Zhu, <b>Chen Gong</b>, Haobing Liu, Bo Li. <br /> <u>International Conference on Database Systems for Advanced Applications (CCF-B).</u> [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)]
+- <div class="pubtitle">DASFAA 2021</div> &nbsp; <b>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions.</b> <br /> Tianzi Zang, Yanmin Zhu, <u>Chen Gong</u>, Haobing Liu, Bo Li. <br /> <u>International Conference on Database Systems for Advanced Applications (CCF-B).</u> [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)]
 
 # 📖 Educations
 - *2022.09 - 2027.06 (expected)*, Ph.D. Candidate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
