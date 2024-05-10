@@ -48,7 +48,7 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 - <div class="pubtitle">Preprint</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <u>Under Review</u>.
 
-- <div class="pubtitle">TON 2024</div> &nbsp; <b>ODE: An Online Data Selection Framework for Federated Learning With Limited Storage in Mobile Network.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <u>IEEE/ACM Transactions on Networking (CCF-A)</u>. [[Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)]
+- <div class="pubtitle">TON 2024</div> &nbsp; <b>ODE: An Online Data Selection Framework for Federated Learning With Limited Storage in Mobile Network.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <u>IEEE/ACM Transactions on Networking (CCF-A)</u>. [[Paper](https://ieeexplore.ieee.org/abstract/document/10478325)]
 
 - <div class="pubtitle">WWW 2023</div> &nbsp; <b>To Store or Not? Online Data Selection for Federated Learning with Limited Storage.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <u>Proceedings of the ACM Web Conference (CCF-A)</u>. [[Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)][[Slides](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/WWW23-ODE-7min.pdf)][[Video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
 
