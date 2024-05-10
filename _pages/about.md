@@ -12,7 +12,7 @@ redirect_from:
 .pubtitle{
     background: #BD666D;
     color: white;
-    font-size: 12px;
+    font-size: 13px;
     padding: 1px 5px 1px 5px;
     border-radius: 15px;
     float: left;
@@ -44,17 +44,17 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 # 📝 Publications 
 
-- <div class="pubtitle">Preprint</div> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <i>A Two-Stage Data Selection Framework for On-Device Model Training.</i> Under Review.
+- <div class="pubtitle">Preprint</div> &nbsp <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <i>A Two-Stage Data Selection Framework for On-Device Model Training.</i> Under Review.
 
-- **[Preprint]** <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <i>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</i> Under Review.
+- <div class="pubtitle">Preprint</div> &nbsp <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <i>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</i> Under Review.
 
-- **[TON 2024]** <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <i>ODE: An Online Data Selection Framework for Federated Learning With Limited Storage in Mobile Network.</i> IEEE/ACM Transactions on Networking (CCF-A). [[Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)]
+- <div class="pubtitle">TON 2024</div> &nbsp <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <i>ODE: An Online Data Selection Framework for Federated Learning With Limited Storage in Mobile Network.</i> IEEE/ACM Transactions on Networking (CCF-A). [[Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)]
 
-- **[WWW 2023]** <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <i>To Store or Not? Online Data Selection for Federated Learning with Limited Storage.</i> Proceedings of the ACM Web Conference 2023 (CCF-A). [[Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)][[Slides](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/WWW23-ODE-7min.pdf)][[Video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
+- <div class="pubtitle">WWW 2023</div> &nbsp <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <i>To Store or Not? Online Data Selection for Federated Learning with Limited Storage.</i> Proceedings of the ACM Web Conference 2023 (CCF-A). [[Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)][[Slides](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/WWW23-ODE-7min.pdf)][[Video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
 
-- **[MM 2023]** Wenxuan Liu, Tianyao He, <b>Chen Gong</b>, Ning Zhang, Hua Yang, Junchi Yan. <i>Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset. </i>  Proceedings of the 31st ACM International Conference on Multimedia (CCF-A). [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611831)][[Code](https://github.com/xuan301/BMMDet_MPDSet.)]
+- <div class="pubtitle">MM 2023</div> &nbsp Wenxuan Liu, Tianyao He, <b>Chen Gong</b>, Ning Zhang, Hua Yang, Junchi Yan. <i>Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset. </i>  Proceedings of the 31st ACM International Conference on Multimedia (CCF-A). [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611831)][[Code](https://github.com/xuan301/BMMDet_MPDSet.)]
 
-- **[DASFAA 2021]** Tianzi Zang, Yanmin Zhu, <b>Chen Gong</b>, Haobing Liu, Bo Li. <i>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions</i>. Database Systems for Advanced Applications (CCF-B). [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)]
+- <div class="pubtitle">DASFAA 2021</div> &nbsp Tianzi Zang, Yanmin Zhu, <b>Chen Gong</b>, Haobing Liu, Bo Li. <i>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions</i>. Database Systems for Advanced Applications (CCF-B). [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)]
 
 # 📖 Educations
 - *202.09 - 2029.06 (expected)*, Ph.D. Candidate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
