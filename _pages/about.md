@@ -13,8 +13,8 @@ redirect_from:
     background: #BD666D;
     color: white;
     font-size: 14px;
-    padding: 1px 5px 1px 5px;
-    border-radius: 15px;
+    padding: 1px 2px 1px 2px;
+    border-radius: 9px;
     float: left;
     font-weight: bold;
 }
@@ -44,7 +44,7 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 # 📝 Publications 
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <u>Under Review</u>.
+- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <u>Under Review</u>.
 
 - <div class="pubtitle">Preprint</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <u>Under Review</u>.
 
@@ -52,9 +52,9 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 - <div class="pubtitle">WWW 2023</div> &nbsp; <b>To Store or Not? Online Data Selection for Federated Learning with Limited Storage.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <u>Proceedings of the ACM Web Conference (CCF-A)</u>. [[Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)][[Slides](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/WWW23-ODE-7min.pdf)][[Video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
 
-- <div class="pubtitle">MM 2023</div> &nbsp; <b>Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset.</b> <br /> Wenxuan Liu, Tianyao He, <b>Chen Gong</b>, Ning Zhang, Hua Yang, Junchi Yan. <br /> <u>Proceedings of the ACM International Conference on Multimedia (CCF-A)</u>. [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611831)][[Code](https://github.com/xuan301/BMMDet_MPDSet)]
+- <div class="pubtitle">MM 2023</div> &nbsp; <b>Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset.</b> <br /> Wenxuan Liu, Tianyao He, <u>Chen Gong</u>, Ning Zhang, Hua Yang, Junchi Yan. <br /> <u>Proceedings of the ACM International Conference on Multimedia (CCF-A)</u>. [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611831)][[Code](https://github.com/xuan301/BMMDet_MPDSet)]
 
-- <div class="pubtitle">DASFAA 2021</div> &nbsp; <b>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions.</b> <br /> Tianzi Zang, Yanmin Zhu, <b>Chen Gong</b>, Haobing Liu, Bo Li. <br /> <u>International Conference on Database Systems for Advanced Applications (CCF-B).</u> [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)]
+- <div class="pubtitle">DASFAA 2021</div> &nbsp; <u>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions.</u> <br /> Tianzi Zang, Yanmin Zhu, <b>Chen Gong</b>, Haobing Liu, Bo Li. <br /> <u>International Conference on Database Systems for Advanced Applications (CCF-B).</u> [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)]
 
 # 📖 Educations
 - *2022.09 - 2027.06 (expected)*, Ph.D. Candidate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
