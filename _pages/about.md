@@ -36,7 +36,7 @@ redirect_from:
 I am currently a second-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), supervised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/). 
 Before that, I received my Bachelor degree in Computer Science from SJTU, 2022.
 
-My research interest focuses on on-device machine learning. Specifically, I am interested in designing efficient and effective data selection framework for resource-constrained devices to improve on-device data utilization rate.
+My research interest focuses on on-device machine learning. Specifically, I am interested in designing efficient and effective data selection systems for data-efficient model training on edge devices.
 
 
 
