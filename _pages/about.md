@@ -12,7 +12,7 @@ redirect_from:
 .pubtitle{
     background: #BD666D;
     color: white;
-    font-size: 13.4px;
+    font-size: 13.5px;
     padding: 1px 5px 1px 5px;
     border-radius: 10px;
     float: left;
@@ -44,17 +44,17 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 # 📝 Publications 
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>.
+- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>.
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>.
+- <div class="pubtitle">Preprint</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>.
 
-- <div class="pubtitle">ToN 24</div> &nbsp; <b>ODE: An Online Data Selection Framework for Federated Learning in Mobile Network.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking (ToN)</i>, 2024. [CCF-A] <br /> [[Paper](https://ieeexplore.ieee.org/abstract/document/10478325)]
+- <div class="pubtitle">ToN 24</div> &nbsp; <b>ODE: An Online Data Selection Framework for Federated Learning in Mobile Network.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking (ToN)</i>, 2024. [CCF-A] <br /> [[Paper](https://ieeexplore.ieee.org/abstract/document/10478325)]
 
-- <div class="pubtitle">WWW 23</div> &nbsp; <b>To Store or Not? Online Data Selection for Federated Learning with Limited Storage.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>Proceedings of the ACM Web Conference (WWW)</i>, 2023. [CCF-A] <br /> [[Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583426)][[Slides](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/WWW23-ODE-7min.pdf)][[Video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
+- <div class="pubtitle">WWW 23</div> &nbsp; <b>To Store or Not? Online Data Selection for Federated Learning with Limited Storage.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>Proceedings of the ACM Web Conference (WWW)</i>, 2023. [CCF-A] <br /> [[Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583426)][[Slides](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/WWW23-ODE-7min.pdf)][[Video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
 
-- <div class="pubtitle">MM 23</div> &nbsp; <b>Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset.</b> <br /> Wenxuan Liu, Tianyao He, <u>Chen Gong</u>, Ning Zhang, Hua Yang, Junchi Yan. <br /> <i>Proceedings of the ACM International Conference on Multimedia (MM)</i>, 2023. [CCF-A] <br /> [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611831)][[Code](https://github.com/xuan301/BMMDet_MPDSet)]
+- <div class="pubtitle">MM 23</div> &nbsp; <b>Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset.</b> <br /> Wenxuan Liu, Tianyao He, <b><u>Chen Gong</u></b>, Ning Zhang, Hua Yang, Junchi Yan. <br /> <i>Proceedings of the ACM International Conference on Multimedia (MM)</i>, 2023. [CCF-A] <br /> [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611831)][[Code](https://github.com/xuan301/BMMDet_MPDSet)]
 
-- <div class="pubtitle">DASFAA 21</div> &nbsp; <b>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions.</b> <br /> Tianzi Zang, Yanmin Zhu, <u>Chen Gong</u>, Haobing Liu, Bo Li. <br /> <i>International Conference on Database Systems for Advanced Applications (DASFAA)</i>, 2021. [CCF-B] <br /> [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)]
+- <div class="pubtitle">DASFAA 21</div> &nbsp; <b>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions.</b> <br /> Tianzi Zang, Yanmin Zhu, <b><u>Chen Gong</u></b>, Haobing Liu, Bo Li. <br /> <i>International Conference on Database Systems for Advanced Applications (DASFAA)</i>, 2021. [CCF-B] <br /> [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)]
 
 # 📖 Educations
 - *2022.09 - 2027.06 (expected)*, Ph.D. Candidate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
