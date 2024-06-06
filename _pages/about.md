@@ -46,9 +46,9 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 # 📝 Publications 
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>. <br /> [PDF] --<font size=2>Effective and efficient data selection pipeline for on-device ML.</font>
+- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>. <br /> [PDF] --<font size=2>An effective & efficient data selection pipeline for on-device ML.</font>
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>.  <br /> [PDF] --<font size=2>A private and efficient effective data enrichment for continual ML.</font>
+- <div class="pubtitle">Preprint</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>.  <br /> [PDF] --<font size=2>A private & efficient data enrichment framework for continual ML.</font>
 
 - <div class="pubtitle">ToN'24</div> &nbsp; <b>[ODE: An Online Data Selection Framework for Federated Learning in Mobile Network](https://ieeexplore.ieee.org/abstract/document/10478325).</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking (ToN)</i>, 2024. [CCF-A] <br /> [[PDF](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/TON24-DataSelection4FL.pdf)]
 
