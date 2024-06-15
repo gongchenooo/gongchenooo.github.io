@@ -48,7 +48,7 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 - <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>. <br /> [PDF] --<font size=2>An effective & efficient data selection pipeline for on-device ML.</font>
 
-- <div class="pubtitle">MobiCom'24</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>International Conference on Mobile Computing and Networking (MobiCom)</i>, 2024. <font size=2> Acceptance Rate=19.1%(55/288).</font>  <br /> [[PDF]() | [Code](https://github.com/gongchenooo/MobiCom24-Delta)] --<font size=2>A private & efficient data enrichment framework for on-device continual ML.</font>
+- <div class="pubtitle">MobiCom'24</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>International Conference on Mobile Computing and Networking (MobiCom)</i>, 2024. <font size=2> Acceptance Rate=19.1%(winter round 55/288).</font>  <br /> [[PDF]() | [Code](https://github.com/gongchenooo/MobiCom24-Delta)] --<font size=2>A private & efficient data enrichment framework for on-device continual ML.</font>
 
 - <div class="pubtitle">ToN'24</div> &nbsp; <b>[ODE: An Online Data Selection Framework for Federated Learning in Mobile Network](https://ieeexplore.ieee.org/abstract/document/10478325).</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking (ToN)</i>, 2024. <br /> [[PDF](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/TON24-DataSelection4FL.pdf)]
 
@@ -61,3 +61,4 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 # 💻 Internships
 - *2021.09 - 2022.09*, Huawei Noah’s Ark Laboratory, Beijing, China. **面向异构多终端的联邦学习技术合作项目**, **优秀结题**.
+- *2024.06 - current*, ByteDance Client AI, Hangzhou, China.  
