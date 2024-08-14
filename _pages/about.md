@@ -36,7 +36,8 @@ redirect_from:
 I am currently a second-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), supervised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/). 
 Before that, I received my Bachelor degree in Computer Science from SJTU, 2022.
 
-My research interest focuses on on-device machine learning. Specifically, I am interested in designing efficient and effective data selection/valuation systems for resource-constrained devices to support data-efficient machine learning.
+My research interest focuses on mobile computing and on-device machine learning. 
+Specifically, I am interested in designing efficient and effective data utilization systems for resource-constrained devices to support data-efficient on-device learning.
 
 # 📖 Educations
 - *2022.09 - 2027.06 (expected)*, Ph.D. Candidate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
@@ -60,5 +61,5 @@ My research interest focuses on on-device machine learning. Specifically, I am i
 
 
 # 💻 Internships
-- *2021.09 - 2022.09*, Huawei Noah’s Ark Laboratory, Beijing, China. **面向异构多终端的联邦学习技术合作项目**, **优秀结题**.
-- *2024.06 - current*, ByteDance Client AI, Hangzhou, China.  
+- *2021.09 - 2022.09*, Huawei Noah’s Ark Laboratory, Beijing（华为诺亚实验室）, China. **面向异构多终端的联邦学习技术合作项目**, **优秀结题**.
+- *2024.06 - Now*, ByteDance Client AI（字节跳动移动平台端智能组）, Hangzhou, China.  
