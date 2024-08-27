@@ -49,7 +49,7 @@ Specifically, I am interested in designing efficient and effective data utilizat
 
 - <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>. <br /> [PDF] --<font size=2>An effective & efficient data selection pipeline for on-device ML.</font>
 
-- <div class="pubtitle">MobiCom 2024</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>International Conference on Mobile Computing and Networking (MobiCom)</i>, 2024. <font size=2> Acceptance Rate=19.1%(55/288).</font> <font color="Red">[CCF-A]</font> <br /> [[PDF]() | [Code](https://github.com/gongchenooo/MobiCom24-Delta)] --<font size=2>A private & efficient data enrichment framework for on-device continual ML.</font>
+- <div class="pubtitle">MobiCom 2024</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>International Conference on Mobile Computing and Networking (MobiCom)</i>, 2024. <font size=2> Acceptance Rate=20.8%(103/494).</font> <font color="Red">[CCF-A]</font> <br /> [[PDF]() | [Code](https://github.com/gongchenooo/MobiCom24-Delta)] --<font size=2>A private & efficient data enrichment framework for on-device continual ML.</font>
 
 - <div class="pubtitle">ToN 2024</div> &nbsp; <b>[ODE: An Online Data Selection Framework for Federated Learning in Mobile Network](https://ieeexplore.ieee.org/abstract/document/10478325).</b> <br /> <b><u>Chen Gong</u></b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking (ToN)</i>, 2024. <font color="Red">[CCF-A]</font> <br /> [[PDF](https://ieeexplore.ieee.org/abstract/document/10478325) | [Code](https://github.com/gongchenooo/WWW23-ODE)]
 
@@ -61,5 +61,5 @@ Specifically, I am interested in designing efficient and effective data utilizat
 
 
 # 💻 Internships
-- *2021.09 - 2022.09*, Huawei Noah’s Ark Lab, Beijing, China. （华为-诺亚方舟实验室，北京）  **面向异构多终端的联邦学习技术**, **优秀结题**.
-- *2024.06 - Now*, ByteDance-App Infra-Client AI, Hangzhou, China. （字节跳动-端智能组，杭州）
+- *2021.09 - 2022.09*, Huawei Noah’s Ark Lab, Beijing, China.  "面向异构多终端的联邦学习技术", 优秀结题.
+- *2024.06 - Now*, ByteDance - App Infra - Client AI, Hangzhou, China. "移动端用户特征构建加速"
