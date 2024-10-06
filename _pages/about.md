@@ -33,7 +33,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), supervised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/). 
+I am currently a 3rd-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), supervised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/). 
 Before that, I received my Bachelor degree in Computer Science from SJTU, 2022.
 
 My research interest focuses on on-device machine learning system. 
