@@ -47,7 +47,7 @@ Specifically, I am interested in designing efficient and effective data utilizat
 
 # 📝 Publications 
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>. <br /> [PDF] --<font size=2>An effective & efficient data selection pipeline for on-device ML.</font>
+- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>. <br /> [[PDF](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/Titan.pdf)] --<font size=2>An effective & efficient data selection pipeline for on-device ML.</font> 
 
 - <div class="pubtitle">MobiCom'24</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>International Conference on Mobile Computing and Networking (MobiCom)</i>, 2024. <font color="DarkRed"> Acceptance=20.8%.</font> <font color="DarkRed">[CCF-A]</font> <br /> [<a href="https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/MobiCom24_Delta.pdf" target="_blank">PDF</a> | [Code](https://github.com/gongchenooo/MobiCom24-Delta)] --<font size=2>A private & efficient data enrichment framework for on-device continual ML.</font>
 
