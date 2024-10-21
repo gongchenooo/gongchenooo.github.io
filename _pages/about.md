@@ -33,11 +33,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3rd-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), supervised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/). 
+I am currently a 3rd-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/). 
 Before that, I received my Bachelor degree in Computer Science from SJTU, 2022.
 
-My research interest focuses on on-device machine learning system. 
-Specifically, I am interested in designing efficient and effective data utilization/processing systems for resource-constrained devices to support data-efficient on-device learning.
+My research interest focuses on edge computing in mobile networks. 
+Specifically, I am interested in designing *efficient and effective data utilization pipelines* for resource-constrained devices to support data-efficient on-device machine learning.
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. Candidate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
@@ -47,7 +47,9 @@ Specifically, I am interested in designing efficient and effective data utilizat
 
 # 📝 Publications 
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>. <br /> [[PDF](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/Titan.pdf)] --<font size=2>An effective & efficient data selection pipeline for on-device ML.</font> 
+- <div class="pubtitle">Preprint</div> &nbsp; <b>Understanding and Optimizing Feature Extraction Latency of On-Device Machine Learning .</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Yiliu Chen, Sheng Wang, Guihai Chen. <br /> <i>Under Review</i>. 
+
+- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>. <br /> [[PDF](https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/Titan.pdf)] 
 
 - <div class="pubtitle">MobiCom'24</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>ACM International Conference on Mobile Computing and Networking, 2024 (ACM MobiCom)</i>. <br /> CCF-A, Acceptance Rate=20.8% (103/494), Presentation <br /> [<a href="https://github.com/gongchenooo/gongchenooo.github.io/blob/main/images/MobiCom24_Delta.pdf" target="_blank">PDF</a> | [Code](https://github.com/gongchenooo/MobiCom24-Delta)]
 
@@ -61,5 +63,5 @@ Specifically, I am interested in designing efficient and effective data utilizat
 
 
 # 💻 Internships
-- *2021.09 - 2022.09*, Huawei Noah’s Ark Lab, Beijing, China.  "面向异构多终端的联邦学习技术", 优秀结题.
-- *2024.06 - Now*, ByteDance - App Infra - Client AI, Hangzhou, China. "移动端用户特征构建加速"
+- *2021.09 - 2022.09*, Huawei - Noah’s Ark Lab, Beijing, China.  "面向异构多终端的联邦学习技术", **优秀结题**.
+- *2024.06 - Now*, ByteDance - App Infra - Client AI, Hangzhou, China. "移动端用户特征构建加速".
