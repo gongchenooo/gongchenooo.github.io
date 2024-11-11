@@ -61,6 +61,9 @@ Specifically, I am interested in designing *<u>efficient and effective data util
 
 - <div class="pubtitle">DASFAA'21</div> &nbsp; <b>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions.</b> <br /> Tianzi Zang, Yanmin Zhu, <u>Chen Gong</u>, Haobing Liu, Bo Li. <br /> <i>International Conference on Database Systems for Advanced Applications, 2021.</i> <br /> <u>CCF-B</u> <br /> [[Pdf](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)] 
 
+# 🎖 Honors and Awards
+- National Scholarship (国家奖学金), 2024
+- CCF Elite Collegiate Award (CCF优秀大学生), 2021
 
 # 💻 Internships
 - *2021.09 - 2022.09*, Huawei - Noah’s Ark Lab, Beijing, China.  "Federated Learning on Heterogeneous Edge Devices (面向异构多终端的联邦学习技术)", **优秀结题**.
