@@ -47,24 +47,25 @@ Specifically, I am interested in designing *<u>efficient and effective data util
 
 # 📝 Publications 
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>Understanding and Optimizing Feature Extraction Latency of On-Device Machine Learning.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Yiliu Chen, Sheng Wang, Guihai Chen. <br /> <i>Under Review</i>. 
+1. <div class="pubtitle">Preprint</div> &nbsp; <b>Understanding and Optimizing Feature Extraction Latency of On-Device Machine Learning.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br /> <i>Under Review.</i>
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review</i>. <br /> [[Pdf](https://gongchenooo.github.io/assets/pdf/Preprint-Titan.pdf)] 
+2. <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review.</i> <br /> [[Pdf](https://gongchenooo.github.io/assets/pdf/Preprint-Titan.pdf)] 
 
-- <div class="pubtitle">MobiCom'24</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Xiaofeng Jia, Guihai Chen. <br /> <i>ACM International Conference on Mobile Computing and Networking, 2024</i>. <br /> <u>CCF-A</u>, Acceptance Rate=20.8% (103/494), <u>Presentation</u> <br /> [[Pdf](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Paper.pdf) | [Code](https://github.com/gongchenooo/MobiCom24-Delta) | [Slides](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Slides.pdf) | [Video]()]
+3. <div class="pubtitle">MobiCom'24</div> &nbsp; <b>Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Xiaofeng Jia, Guihai Chen. <br /> <i>International Conference on Mobile Computing and Networking (MobiCom), 2024, Presentation</i>. <b>CCF-A.</b> <br /> [[Pdf](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Paper.pdf) | [Code](https://github.com/gongchenooo/MobiCom24-Delta) | [Slides](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Slides.pdf) | [Video]()]
 
-- <div class="pubtitle">TON'24</div> &nbsp; <b>ODE: An Online Data Selection Framework for Federated Learning in Mobile Network.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking, 2024</i>. <br /> <u>CCF-A</u> <br /> [[Pdf](https://gongchenooo.github.io/assets/pdf/TON24-ODE-Paper.pdf) | [Code](https://github.com/gongchenooo/WWW23-ODE)]
+4. <div class="pubtitle">TON'24</div> &nbsp; <b>ODE: An Online Data Selection Framework for Federated Learning in Mobile Network.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking (TON), 2024</i>. <b>CCF-A.</b> <br /> [[Pdf](https://gongchenooo.github.io/assets/pdf/TON24-ODE-Paper.pdf) | [Code](https://github.com/gongchenooo/WWW23-ODE)]
 
-- <div class="pubtitle">WWW'23</div> &nbsp; <b>To Store or Not? Online Data Selection for Federated Learning with Limited Storage.</b> <br /> <u>Chen Gong</u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>ACM International World Wide Web Conference, 2023</i>. <br /> <u>CCF-A</u>, Acceptance Rate=19.2% (365/1900), <u>Presentation</u> <br /> [[Pdf](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Paper.pdf) | [Code](https://github.com/gongchenooo/WWW23-ODE) | [Slides](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Slides.pdf) | [Video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
+5. <div class="pubtitle">WWW'23</div> &nbsp; <b>To Store or Not? Online Data Selection for Federated Learning with Limited Storage.</b> <br /> <b>Chen Gong</b>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>ACM International World Wide Web Conference (WWW), 2023, Presentation</i>. <b>CCF-A.</b> <br /> [[Pdf](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Paper.pdf) | [Code](https://github.com/gongchenooo/WWW23-ODE) | [Slides](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Slides.pdf) | [Video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
 
-- <div class="pubtitle">MM'23</div> &nbsp; <b>Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset.</b> <br /> Wenxuan Liu, Tianyao He, <u>Chen Gong</u>, Ning Zhang, Hua Yang, Junchi Yan. <br /> <i>ACM International Conference on Multimedia, 2023.</i>  <br /> <u>CCF-A</u>, Acceptance Rate=29.3% (902/3078), <u>Poster</u><br /> [[Pdf](https://gongchenooo.github.io/assets/pdf/MM23-BMMDet-Paper.pdf) | [Code](https://github.com/xuan301/BMMDet_MPDSet) ]
+6. <div class="pubtitle">MM'23</div> &nbsp; <b>Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset.</b> <br /> Wenxuan Liu, Tianyao He, <b>Chen Gong</b>, Ning Zhang, Hua Yang, Junchi Yan. <br /> <i>ACM International Conference on Multimedia (MM), 2023, Poster</i> <b>CCF-A.</b> <br /> [[Pdf](https://gongchenooo.github.io/assets/pdf/MM23-BMMDet-Paper.pdf) | [Code](https://github.com/xuan301/BMMDet_MPDSet) ]
 
-- <div class="pubtitle">DASFAA'21</div> &nbsp; <b>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions.</b> <br /> Tianzi Zang, Yanmin Zhu, <u>Chen Gong</u>, Haobing Liu, Bo Li. <br /> <i>International Conference on Database Systems for Advanced Applications, 2021.</i> <br /> <u>CCF-B</u> <br /> [[Pdf](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)] 
+7. <div class="pubtitle">DASFAA'21</div> &nbsp; <b>Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions.</b> <br /> Tianzi Zang, Yanmin Zhu, <b>Chen Gong</b>, Haobing Liu, Bo Li. <br /> <i>International Conference on Database Systems for Advanced Applications (DASFAA), 2021.</i> <b>CCF-B.</b> <br /> [[Pdf](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)] 
 
 # 🎖 Honors and Awards
-- National Scholarship (国家奖学金), 2024
-- CCF Elite Collegiate Award (CCF优秀大学生), 2021
+- National Scholarship, 2024
+- Outstanding Graduate Student, 2022
+- CCF Elite Collegiate Award, 2021
 
 # 💻 Internships
-- *2021.09 - 2022.09*, Huawei - Noah’s Ark Lab, Beijing, China.  "Federated Learning on Heterogeneous Edge Devices (面向异构多终端的联邦学习技术)", **优秀结题**.
+- *2021.09 - 2022.09*, Huawei - Noah’s Ark Lab, Beijing, China.  "Federated Learning on Heterogeneous Edge Devices (面向异构多终端的联邦学习技术)", **Excellent Completion(优秀结题)**.
 - *2024.06 - Now*, ByteDance - App Infra - Client AI, Hangzhou, China. "Optimizing Data Storage and Preprocessing on Mobile Devices (终端侧用户数据存储和加工优化)", **Work in Progress**.
