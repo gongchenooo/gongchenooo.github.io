@@ -34,9 +34,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a 3rd-year Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), co-advised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/). 
-Prior to that, I received my Bachelor degree in Computer Science from SJTU, 2022.
 
-My research interest focuses on edge computing in mobile networks. 
+My research interest focuses on mobile/edge computing. 
 Specifically, I am interested in designing *<u>efficient and effective data utilization pipelines</u>* for resource-constrained devices to support data-efficient on-device machine learning.
 
 # 📖 Educations
@@ -47,7 +46,7 @@ Specifically, I am interested in designing *<u>efficient and effective data util
 
 # 📝 Publications 
 
-1. <div class="pubtitle">Preprint</div> &nbsp; <b>Understanding and Optimizing Feature Extraction Latency of On-Device Machine Learning.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br /> <i>Under Review.</i>
+1. <div class="pubtitle">Preprint</div> &nbsp; <b>AutoFeature: Understanding and Optimizing Feature Extraction Latency of On-Device Machine Learning.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br /> <i>Under Review.</i>
 
 2. <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review.</i> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/Preprint-Titan.pdf)] 
 
@@ -55,7 +54,7 @@ Specifically, I am interested in designing *<u>efficient and effective data util
 
 4. <div class="pubtitle">TON'24</div> &nbsp; <b>[ODE: An Online Data Selection Framework for Federated Learning in Mobile Network](https://ieeexplore.ieee.org/document/10478325).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking</i>. <b>CCF-A.</b> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/TON24-ODE-Paper.pdf) | [code](https://github.com/gongchenooo/WWW23-ODE) | [appendix](https://gongchenooo.github.io/assets/pdf/TON24-ODE-Appendix.pdf)]
 
-5. <div class="pubtitle">WWW'23</div> &nbsp; <b>[To Store or Not? Online Data Selection for Federated Learning with Limited Storage](https://dl.acm.org/doi/10.1145/3543507.3583426).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>ACM International World Wide Web Conference</i>. Acceptance rate = 19.2% (365/1900). <b>CCF-A.</b> <br /> [[Paper](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Paper.pdf) | [code](https://github.com/gongchenooo/WWW23-ODE) | [slides](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Slides.pdf) | [video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
+5. <div class="pubtitle">WWW'23</div> &nbsp; <b>[To Store or Not? Online Data Selection for Federated Learning with Limited Storage](https://dl.acm.org/doi/10.1145/3543507.3583426).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>ACM International World Wide Web Conference</i>. Acceptance rate = 19.2% (365/1900). <b>CCF-A.</b> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Paper.pdf) | [code](https://github.com/gongchenooo/WWW23-ODE) | [slides](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Slides.pdf) | [video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
 
 6. <div class="pubtitle">MM'23</div> &nbsp; <b>[Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset](https://dl.acm.org/doi/10.1145/3581783.3611831).</b> <br /> Wenxuan Liu, Tianyao He, <u><b>Chen Gong</b></u>, Ning Zhang, Hua Yang, Junchi Yan. <br /> <i>ACM International Conference on Multimedia.</i> Acceptance rate = 29.3% (902/3078). <b>CCF-A.</b> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/MM23-BMMDet-Paper.pdf) | [code](https://github.com/xuan301/BMMDet_MPDSet) ]
 
