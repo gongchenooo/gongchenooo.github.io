@@ -50,7 +50,7 @@ Specifically, I am interested in designing *<u>efficient and effective data util
 
 2. <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review.</i> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/Preprint-Titan.pdf)] 
 
-3. <div class="pubtitle">WWW'25</div> &nbsp; <b>[Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration]().</b> <br /> Haibo Liu, <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Shengzhong Liu, Fan Wu. <br /> <i>ACM International World Wide Web Conference</i>. Acceptance rate = 19.8% (409/2062). <b>CCF-A.</b> <br /> [[paper]() | [slides]()]
+3. <div class="pubtitle">WWW'25</div> &nbsp; <b>[Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration]().</b> <br /> Haibo Liu, <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Shengzhong Liu, Fan Wu. <br /> <i>ACM International World Wide Web Conference</i>. Acceptance rate = 19.8% (409/2062). <b>CCF-A.</b> <br /> [[paper](https://openreview.net/pdf?id=oHka3683Cb) | [slides]()]
 
 4. <div class="pubtitle">MobiCom'24</div> &nbsp; <b>[Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning](https://dl.acm.org/doi/10.1145/3636534.3690701).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Xiaofeng Jia, Guihai Chen. <br /> <i>ACM International Conference on Mobile Computing and Networking</i>. Acceptance rate = 19.0% (55/288, winter round). <b>CCF-A.</b> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Paper.pdf) | [code](https://github.com/gongchenooo/MobiCom24-Delta) | [slides](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Slides.pdf) | [full version](https://gongchenooo.github.io/assets/pdf/MobiCom_Delta_fullversion.pdf)]
 
@@ -63,10 +63,10 @@ Specifically, I am interested in designing *<u>efficient and effective data util
 8. <div class="pubtitle">DASFAA'21</div> &nbsp; <b>[Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35).</b> <br /> Tianzi Zang, Yanmin Zhu, <u><b>Chen Gong</b></u>, Haobing Liu, Bo Li. <br /> <i>International Conference on Database Systems for Advanced Applications.</i> <b>CCF-B.</b> <br /> [[paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)] 
 
 # 🎖 Honors and Awards
-- National Scholarship of China, The Ministry of Education of China, 2024
-- Outstanding Graduate Student, Shanghai Jiao Tong University, 2022
-- CCF Elite Collegiate Award, China Computer Federation, 2021
+- National Scholarship of China(博士国家奖学金), 2024
+- Outstanding Graduate Student(本科优秀毕业生), 2022
+- CCF Elite Collegiate Award(CCF优秀大学生奖), 2021
 
 # 💻 Internships
 - *2021.09 - 2022.09*, Huawei - Noah’s Ark Lab, Beijing, China.  "Federated Learning on Heterogeneous Edge Devices (面向异构多终端的联邦学习技术)", **Excellent Completion(优秀结题)**.
-- *2024.06 - Now*, ByteDance - App Infra - Client AI, Hangzhou, China. "Optimizing Data Storage and Preprocessing on Mobile Devices (终端侧用户数据存储和加工优化)", **Work in Progress**.
+- *2024.06 - Now*, ByteDance - App Infra - Client AI, Hangzhou, China. "Optimizing Data Storage and Preprocessing on Mobile Devices (移动应用中数据高效存储和计算)".
