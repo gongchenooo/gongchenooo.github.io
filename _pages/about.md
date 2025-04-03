@@ -46,7 +46,9 @@ Specifically, I am interested in designing *<u>efficient and effective data util
 
 # 📝 Publications 
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review.</i> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/Preprint-Titan.pdf)] 
+- <div class="pubtitle">Preprint</div> &nbsp; <b>Understanding and Optimizing Feature Extraction for On-Device Model Inference.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review.</i> <br />
+
+- <div class="pubtitle">Preprint</div> &nbsp; <b>A Two-Stage Data Selection Framework for On-Device Model Training.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>Under Review.</i> <br />
 
 - <div class="pubtitle">WWW'25</div> &nbsp; <b>[Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration]().</b> <br /> Haibo Liu, <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Shengzhong Liu, Fan Wu. <br /> <i>ACM International World Wide Web Conference</i>. Acceptance rate = 19.8% (409/2062). <b>CCF-A.</b> <br /> [[paper](https://openreview.net/pdf?id=oHka3683Cb) | [slides]()]
 
