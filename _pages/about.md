@@ -35,7 +35,7 @@ redirect_from:
 
 I am currently a 3rd-year Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), co-advised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/). 
 
-My research interest focuses on mobile/edge computing. 
+My research interest focuses on mobile computing. 
 Specifically, I am interested in designing *<u>efficient and effective data utilization pipelines</u>* for resource-constrained devices to support data-efficient on-device machine learning.
 
 # 📖 Educations
@@ -61,10 +61,10 @@ Specifically, I am interested in designing *<u>efficient and effective data util
 - <div class="pubtitle">DASFAA'21</div> &nbsp; <b>[Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35).</b> <br /> Tianzi Zang, Yanmin Zhu, <u><b>Chen Gong</b></u>, Haobing Liu, Bo Li. <br /> <i>International Conference on Database Systems for Advanced Applications.</i> <b>CCF-B.</b> <br /> [[paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35)] 
 
 # 🎖 Honors and Awards
-- National Scholarship of China(博士国家奖学金), 2024
-- Outstanding Graduate Student(本科优秀毕业生), 2022
-- CCF Elite Collegiate Award(CCF优秀大学生奖), 2021
+- National Scholarship of China, Ministry of Education, 2024
+- Outstanding Graduate Student, Shanghai Jiao Tong University (SJTU), 2022
+- CCF Elite Collegiate Award, China Computer Federation (CCF), 2021
 
 # 💻 Internships
-- *2021.09 - 2022.09*, "Federated Learning on Heterogeneous Edge Devices (面向异构多终端的联邦学习技术)", Huawei - Noah’s Ark Lab, Beijing, China. Excellent Completion(优秀结题).
-- *2024.06 - Now*, "Optimizing User Data Storage and Process in Mobile Apps (终端侧用户数据存储和计算链路优化)", ByteDance - App Infra - Client AI, Hangzhou, China. Work in Progress.
+- *2021.09 - 2022.09*, "Federated Learning on Heterogeneous Edge Devices (异构多终端联邦学习技术)", Huawei - Noah’s Ark Lab, Beijing, China. Excellent Completion(优秀结题).
+- *2024.06 - Now*, "Optimizing User Data Storage and Process in Mobile Apps (终端用户数据存储和计算链路优化)", ByteDance - App Infra - Client AI, Hangzhou, China. Work in Progress.
