@@ -45,7 +45,7 @@ My research interest focuses on *Mobile/Edge Computing*. Specifically, I am inte
 
 # 📝 Publications 
 
-- <div class="pubtitle">SIGKDD'25</div> &nbsp; <b>[A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices]().</b> <br /> <u><b>Chen Gong</b></u>, Rui Xing, Zhenzhe Zheng, Fan Wu. <br /> <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining.</i> Acceptance rate = 18.4% (365/1988). <b>CCF-A.</b> <br /> [[paper]() | [slides]()]
+- <div class="pubtitle">SIGKDD'25</div> &nbsp; <b>[A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices]().</b> <br /> <u><b>Chen Gong</b></u>, Rui Xing, Zhenzhe Zheng, Fan Wu. <br /> <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining.</i> Acceptance rate = 18.4% (365/1988). <b><font color="#BD666D">CCF-A</font>.</b> <br /> [[paper]() | [slides]()]
 
 - <div class="pubtitle">WWW'25</div> &nbsp; <b>[Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration](https://dl.acm.org/doi/10.1145/3696410.3714796).</b> <br /> Haibo Liu, <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Shengzhong Liu, Fan Wu. <br /> <i>ACM International World Wide Web Conference</i>. Acceptance rate = 19.8% (409/2062). <b><font color="#BD666D">CCF-A</font>.</b> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/WWW25_ELITE_Paper.pdf) | [poster](https://gongchenooo.github.io/assets/pdf/WWW25_ELITE_Poster.pdf)]
 
