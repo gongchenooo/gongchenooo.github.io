@@ -35,7 +35,7 @@ redirect_from:
 
 I am currently a 3rd-year Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), co-advised by [Prof. Zhenzhe Zheng(郑臻哲)](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu(吴帆)](https://www.cs.sjtu.edu.cn/~fwu/). 
 
-My research interest focuses on *Mobile/Edge Computing*. Specifically, I am interested in building *<u>efficient data preparation pipelines</u>* for machine learning on mobile/edge devices.
+My research interest focuses on *Mobile/Edge Computing*. Specifically, I am interested in building *<u>efficient data preparation pipelines</u>* for machine learning on mobile/edge devices, including data logging, feature extraction, sample selection, model training/inference optimization.
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. Student, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
