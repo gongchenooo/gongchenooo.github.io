@@ -47,7 +47,7 @@ My research interest focuses on *Mobile/Edge Computing*. Specifically, I am inte
 
 ## 2025
 
-- <div class="pubtitle">ACM SIGKDD'25</div> &nbsp; <b>[A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices]().</b> <br /> <u><b>Chen Gong</b></u>, Rui Xing, Zhenzhe Zheng, Fan Wu. <br /> <i>Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'25).</i> <br /><b><font color="#BD666D">CCF-A</font>.</b> Acceptance rate = 18.4% (365/1988).  <br /> [[paper](https://gongchenooo.github.io/assets/pdf/kdd25_Titan_Paper.pdf) | [slides]()]
+- <div class="pubtitle">ACM SIGKDD'25</div> &nbsp; <b>[A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices]().</b> <br /> <u><b>Chen Gong</b></u>, Rui Xing, Zhenzhe Zheng, Fan Wu. <br /> <i>Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'25).</i> <br /><b><font color="#BD666D">CCF-A</font>.</b> Acceptance rate = 18.4% (365/1988).  <br /> [[paper](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Paper.pdf) | [slides]()]
 
 - <div class="pubtitle">ACM WWW'25</div> &nbsp; <b>[Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration](https://dl.acm.org/doi/10.1145/3696410.3714796).</b> <br /> Haibo Liu, <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Shengzhong Liu, Fan Wu. <br /> <i>Proceedings of the ACM Web Conference 2025 (WWW'25).</i> <br /><b><font color="#BD666D">CCF-A.</font></b> Acceptance rate = 19.8% (409/2062).<br /> [[paper](https://gongchenooo.github.io/assets/pdf/WWW25_ELITE_Paper.pdf) | [poster](https://gongchenooo.github.io/assets/pdf/WWW25_ELITE_Poster.pdf)]
 
