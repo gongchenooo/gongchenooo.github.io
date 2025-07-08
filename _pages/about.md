@@ -33,9 +33,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3rd-year Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), co-advised by [Prof. Zhenzhe Zheng(郑臻哲)](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu(吴帆)](https://www.cs.sjtu.edu.cn/~fwu/). 
+I'm currently a 3rd-year Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Zhenzhe Zheng(郑臻哲)](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu(吴帆)](https://www.cs.sjtu.edu.cn/~fwu/). 
 
-My research interest focuses on *Mobile/Edge Computing*. Specifically, I am interested in building *<u>efficient data preparation pipelines</u>* for machine learning on mobile/edge devices, including data logging, feature extraction, sample selection, model training/inference optimization.
+My research interest focuses on *Data-Centric Edge AI*. Specifically, I am interested in building *<u>efficient data preparation pipelines</u>* for machine learning on mobile&edge devices, consisting of data logging, feature computation and sample selection.
+
+including data logging, feature extraction, sample selection, model training/inference optimization.
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. Student, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
@@ -69,5 +71,5 @@ My research interest focuses on *Mobile/Edge Computing*. Specifically, I am inte
 - CCF Elite Collegiate Award, China Computer Federation (CCF), 2021
 
 # 💻 Internships
-- *2021.09 - 2022.09*, "Federated Learning on Heterogeneous Edge Devices (异构多终端联邦学习技术)", Huawei - Noah’s Ark Lab, Beijing, China. *Excellent Completion (优秀结题)*.
-- *2024.06 - Now*, "Optimizing User Data Storage and Feature Extraction in Mobile Apps (移动应用用户数据存储、处理系统优化)", ByteDance - App Infra - Client AI, Hangzhou, China. *Work in Progress*.
+- *2021.09 - 2022.09*, "Federated Learning on Heterogeneous Edge Devices (异构终端联邦学习技术)", Huawei - Noah’s Ark Lab, Beijing, China. *Excellent Completion (优秀结题)*.
+- *2024.06 - 2025.06*, "Optimizing Data Storage and Feature Extraction in Mobile Apps (移动应用日志存储和特征计算优化)", ByteDance - App Infra - Client AI, Hangzhou, China. 
