@@ -33,11 +33,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a 3rd-year Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Zhenzhe Zheng(郑臻哲)](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu(吴帆)](https://www.cs.sjtu.edu.cn/~fwu/). 
+I'm currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Zhenzhe Zheng(郑臻哲)](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu(吴帆)](https://www.cs.sjtu.edu.cn/~fwu/). 
 
 My research interest focuses on *Data-Centric Edge AI*. Specifically, I am interested in building *<u>efficient data preparation pipelines</u>* for machine learning on mobile&edge devices, consisting of data logging, feature computation and sample selection.
-
-including data logging, feature extraction, sample selection, model training/inference optimization.
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. Student, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
