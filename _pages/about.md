@@ -45,6 +45,10 @@ My research interest focuses on *Data-Centric Edge AI*. Specifically, I am inter
 
 # 📝 Publications 
 
+- <div class="pubtitle">Preprint</div> &nbsp; <b>Understanding and Optimizing Feature Extraction for On-Device Model Inference with User Behavior Sequences.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Sheng Wang, Yiliu Chen, Fan Wu, Guihai Chen. <br />
+
+- <div class="pubtitle">Preprint</div> &nbsp; <b>Reducing Application Log Storage for ML-embedded Mobile Apps with AdaLog.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Sheng Wang, Yiliu Chen, Fan Wu, Guihai Chen. <br />
+
 ## 2025
 
 - <div class="pubtitle">ACM SIGKDD'25</div> &nbsp; <b>[A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices]().</b> <br /> <u><b>Chen Gong</b></u>, Rui Xing, Zhenzhe Zheng, Fan Wu. <br /> <i>Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'25).</i> <br /><b><font color="#BD666D">CCF-A</font>.</b> Acceptance rate = 18.4% (365/1988).  <br /> [[paper](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Paper.pdf) | [slides]() | [video](https://www.youtube.com/watch?v=EUFR-620Q6A&list=PLn0nrSd4xjjaUNjqud2rogfEv-5fQK4go&index=78)]
