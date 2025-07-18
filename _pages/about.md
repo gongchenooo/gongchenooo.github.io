@@ -45,9 +45,9 @@ My research interest focuses on *Data-Centric Edge AI*. Specifically, I am inter
 
 # 📝 Publications 
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>Understanding and Optimizing Feature Extraction for On-Device Model Inference with User Behavior Sequences.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Sheng Wang, Yiliu Chen, Fan Wu, Guihai Chen. <br />
+- <div class="pubtitle">Preprint</div> &nbsp; <b>Understanding and Optimizing Feature Extraction for On-Device Model Inference with User Behavior Sequences.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Yan Zhuang, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br />
 
-- <div class="pubtitle">Preprint</div> &nbsp; <b>Reducing Application Log Storage for ML-embedded Mobile Apps with AdaLog.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Sheng Wang, Yiliu Chen, Fan Wu, Guihai Chen. <br />
+- <div class="pubtitle">Preprint</div> &nbsp; <b>Reducing Application Log Storage for ML-embedded Mobile Apps with AdaLog.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br />
 
 ## 2025
 
