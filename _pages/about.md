@@ -12,7 +12,7 @@ redirect_from:
 .pubtitle{
     background: #BD666D;
     color: white;
-    font-size: 13.5px;
+    font-size: 11px;
     padding: 1px 5px 1px 5px;
     border-radius: 10px;
     float: left;
@@ -49,18 +49,14 @@ My research interest focuses on *Data-Centric Edge AI*. Specifically, I am inter
 
 - <div class="pubtitle">Preprint</div> &nbsp; <b>Reducing Application Log Storage for ML-embedded Mobile Apps with AdaLog.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br />
 
-## 2025
-
-- <div class="pubtitle">ACM SIGKDD'25</div> &nbsp; <b>[A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices]().</b> <br /> <u><b>Chen Gong</b></u>, Rui Xing, Zhenzhe Zheng, Fan Wu. <br /> <i>Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'25).</i> <br /><b><font color="#BD666D">CCF-A</font>.</b> Acceptance rate = 18.4% (365/1988).  <br /> [[paper](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Paper.pdf) | [slides]() | [video](https://www.youtube.com/watch?v=EUFR-620Q6A&list=PLn0nrSd4xjjaUNjqud2rogfEv-5fQK4go&index=78)]
+- <div class="pubtitle">ACM KDD'25</div> &nbsp; <b>[A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices]().</b> <br /> <u><b>Chen Gong</b></u>, Rui Xing, Zhenzhe Zheng, Fan Wu. <br /> <i>Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'25).</i> <br /><b><font color="#BD666D">CCF-A</font>.</b> Acceptance rate = 18.4% (365/1988).  <br /> [[paper](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Paper.pdf) | [slides]() | [video](https://www.youtube.com/watch?v=EUFR-620Q6A&list=PLn0nrSd4xjjaUNjqud2rogfEv-5fQK4go&index=78) | [poster](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Poster.pdf)]
 
 - <div class="pubtitle">ACM WWW'25</div> &nbsp; <b>[Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration](https://dl.acm.org/doi/10.1145/3696410.3714796).</b> <br /> Haibo Liu, <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Shengzhong Liu, Fan Wu. <br /> <i>Proceedings of the ACM Web Conference 2025 (WWW'25).</i> <br /><b><font color="#BD666D">CCF-A.</font></b> Acceptance rate = 19.8% (409/2062).<br /> [[paper](https://gongchenooo.github.io/assets/pdf/WWW25_ELITE_Paper.pdf) | [poster](https://gongchenooo.github.io/assets/pdf/WWW25_ELITE_Poster.pdf)]
 
-## 2024
 - <div class="pubtitle">ACM MobiCom'24</div> &nbsp; <b>[Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning](https://dl.acm.org/doi/10.1145/3636534.3690701).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Xiaofeng Jia, Guihai Chen. <br /> <i>The 30th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'24).</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> Acceptance rate = 19.0% (55/288, winter round). <br /> [[paper](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Paper.pdf) | [code](https://github.com/gongchenooo/MobiCom24-Delta) | [slides](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Slides.pdf) | [full version](https://gongchenooo.github.io/assets/pdf/MobiCom_Delta_fullversion.pdf)]
 
 - <div class="pubtitle">IEEE/ACM TON'24</div> &nbsp; <b>[ODE: An Online Data Selection Framework for Federated Learning in Mobile Network](https://ieeexplore.ieee.org/document/10478325).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking (TON), VOL. 32, NO. 4, August 2024.</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/TON24-ODE-Paper.pdf) | [code](https://github.com/gongchenooo/WWW23-ODE) | [appendix](https://gongchenooo.github.io/assets/pdf/TON24-ODE-Appendix.pdf)]
 
-## 2023
 - <div class="pubtitle">ACM WWW'23</div> &nbsp; <b>[To Store or Not? Online Data Selection for Federated Learning with Limited Storage](https://dl.acm.org/doi/10.1145/3543507.3583426).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>Proceedings of the ACM Web Conference 2023 (WWW'23).</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> Acceptance rate = 19.2% (365/1900). <br /> [[paper](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Paper.pdf) | [code](https://github.com/gongchenooo/WWW23-ODE) | [slides](https://gongchenooo.github.io/assets/pdf/WWW23-ODE-Slides.pdf) | [video](https://www.youtube.com/watch?v=h9feBNoxLMo)]
 
 - <div class="pubtitle">ACM MM'23</div> &nbsp; <b>[Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset](https://dl.acm.org/doi/10.1145/3581783.3611831).</b> <br /> Wenxuan Liu, Tianyao He, <u><b>Chen Gong</b></u>, Ning Zhang, Hua Yang, Junchi Yan. <br /> <i>Proceedings of the 31st ACM International Conference on Multimedia (MM'23).</i> <br /><b><font color="#BD666D">CCF-A.</font></b> Acceptance rate = 29.3% (902/3078). <br /> [[paper](https://gongchenooo.github.io/assets/pdf/MM23-BMMDet-Paper.pdf) | [code](https://github.com/xuan301/BMMDet_MPDSet) ]
