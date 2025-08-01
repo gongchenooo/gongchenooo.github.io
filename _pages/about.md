@@ -14,7 +14,7 @@ redirect_from:
     color: white;
     font-size: 12px;
     padding: 1px 5px 1px 5px;
-    border-radius: 1px;
+    border-radius: 7px;
     float: left;
     font-weight: bold;
 }
