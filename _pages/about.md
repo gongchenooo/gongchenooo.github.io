@@ -12,7 +12,7 @@ redirect_from:
 .pubtitle{
     background: #BD666D;
     color: white;
-    font-size: 11px;
+    font-size: 12px;
     padding: 1px 5px 1px 5px;
     border-radius: 10px;
     float: left;
