@@ -47,7 +47,7 @@ My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I a
 
 ## First-Author Papers
 
-- <div class="pubtitle">ACM SIGMETRICS'26</div> &nbsp; <b>Optimizing Storage Overhead of User Behavior Log for ML-embedded Mobile Apps.</b> <br /> <u><b>Chen Gong</b></u>, Yan Zhuang, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br /> <i>ACM International Conference on Measurement and Modeling of Computer Systems.</i> <br /><b><font color="#BD666D">CCF-B</font>.</b> Acceptance rate = 21.4% (24/112, Summer Round).  <br /> [[paper]() | [slides]()]
+- <div class="pubtitle">ACM SIGMETRICS'26</div> &nbsp; <b>Optimizing Storage Overhead of User Behavior Log for ML-embedded Mobile Apps.</b> <br /> <u><b>Chen Gong</b></u>, Yan Zhuang, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br /> <i>ACM International Conference on Measurement and Modeling of Computer Systems.</i> <br /><b><font color="#BD666D">CCF-B</font>.</b> Acceptance rate = 21.4% (24/112, Summer Round).  <br /> [[paper](https://gongchenooo.github.io/assets/pdf/SigMetrics26-AdaLog-Paper.pdf) | slides]
 
 - <div class="pubtitle">ACM/IEEE SenSys'26</div> &nbsp; <b>Optimizing Feature Extraction for On-Device Model Inference with User Behavior Sequences.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br /> <i>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems.</i> <br /><b><font color="#BD666D">CCF-B</font>.</b> Acceptance rate = 18.9% (49/258, First Round). Conditionally Accepted.
 
