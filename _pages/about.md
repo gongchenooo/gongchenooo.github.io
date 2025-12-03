@@ -35,13 +35,12 @@ redirect_from:
 
 I'm currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Zhenzhe Zheng(郑臻哲)](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu(吴帆)](https://www.cs.sjtu.edu.cn/~fwu/). 
 
-My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I have focused on designing *<u>efficient data processing pipelines for on-device AI</u>*, including stages of raw data logging, feature computation and sample selection.
+My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I have focused on designing efficient data processing pipelines for on-device maching learning (e.g., raw data logging, feature computation, data sample selection, etc).
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. Student, School of Computer Science, Shanghai Jiao Tong University. 
-- *2018.09 - 2022.06*, Computer Science (IEEE Honored Class), Shanghai Jiao Tong University. 
+- *2018.09 - 2022.06*, Computer Science (IEEE Honored Class), Shanghai Jiao Tong University.
 
-<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -51,9 +50,9 @@ My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I h
 
 - <div class="pubtitle">ACM/IEEE SenSys'26</div> &nbsp; <b>Optimizing Feature Extraction for On-Device Model Inference with User Behavior Sequences.</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br /> <i>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems.</i> Acceptance rate = 18.6% (48/257, First Round). 
 
-- <div class="pubtitle">ACM KDD'25</div> &nbsp; <b>[A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices](https://dl.acm.org/doi/10.1145/3711896.3736823).</b> <br /> <u><b>Chen Gong</b></u>, Rui Xing, Zhenzhe Zheng, Fan Wu. <br /> <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining.</i> Acceptance rate = 18.4% (365/1988).  <br /> [[paper](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Paper.pdf) | [slides](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Slides.pdf) | [video](https://www.youtube.com/watch?v=EUFR-620Q6A&list=PLn0nrSd4xjjaUNjqud2rogfEv-5fQK4go&index=78) | [poster](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Poster.pdf)]
+- <div class="pubtitle">ACM KDD'25</div> &nbsp; <b>[A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices](https://dl.acm.org/doi/10.1145/3711896.3736823).</b> <br /> <u><b>Chen Gong</b></u>, Rui Xing, Zhenzhe Zheng, Fan Wu. <br /> <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining.</i> Acceptance rate = 18.4% (365/1988). <br /> [[paper](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Paper.pdf) | [slides](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Slides.pdf) | [video](https://www.youtube.com/watch?v=EUFR-620Q6A&list=PLn0nrSd4xjjaUNjqud2rogfEv-5fQK4go&index=78) | [poster](https://gongchenooo.github.io/assets/pdf/KDD25_Titan_Poster.pdf)]
 
-- <div class="pubtitle">ACM MobiCom'24</div> &nbsp; <b>[Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning](https://dl.acm.org/doi/10.1145/3636534.3690701).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Xiaofeng Jia, Guihai Chen. <br /> <i>The 30th Annual International Conference on Mobile Computing and Networking.</i> Acceptance rate = 19.0% (55/288). <br /> [[paper](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Paper.pdf) | [code](https://github.com/gongchenooo/MobiCom24-Delta) | [slides](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Slides.pdf) | [full version](https://gongchenooo.github.io/assets/pdf/MobiCom_Delta_fullversion.pdf)]
+- <div class="pubtitle">ACM MobiCom'24</div> &nbsp; <b>[Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning](https://dl.acm.org/doi/10.1145/3636534.3690701).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Xiaofeng Jia, Guihai Chen. <br /> <i>The 30th Annual International Conference on Mobile Computing and Networking. </i> Acceptance rate = 19.0% (55/288). <br /> [[paper](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Paper.pdf) | [code](https://github.com/gongchenooo/MobiCom24-Delta) | [slides](https://gongchenooo.github.io/assets/pdf/MobiCom24-Delta-Slides.pdf) | [full version](https://gongchenooo.github.io/assets/pdf/MobiCom_Delta_fullversion.pdf)]
 
 - <div class="pubtitle">IEEE/ACM TON'24</div> &nbsp; <b>[ODE: An Online Data Selection Framework for Federated Learning in Mobile Network](https://ieeexplore.ieee.org/document/10478325).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Yunfeng Shao, Bingshuai Li, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking.</i> <br /> [[paper](https://gongchenooo.github.io/assets/pdf/TON24-ODE-Paper.pdf) | [code](https://github.com/gongchenooo/WWW23-ODE) | [appendix](https://gongchenooo.github.io/assets/pdf/TON24-ODE-Appendix.pdf)]
 
