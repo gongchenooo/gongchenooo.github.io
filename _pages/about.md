@@ -35,10 +35,10 @@ redirect_from:
 
 I'm currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Zhenzhe Zheng(郑臻哲)](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu(吴帆)](https://www.cs.sjtu.edu.cn/~fwu/). 
 
-My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I am interested in designing *<u>efficient data processing pipelines for on-device ML</u>*, including user data logging, input feature computation and data sample selection.
+My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I have focused on designing *<u>efficient data processing pipelines for on-device AI</u>*, including stages of raw data logging, feature computation and sample selection.
 
 # 📖 Educations
-- *2022.09 - Now*, Ph.D. Student, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
+- *2022.09 - Now*, Ph.D. Student, School of Computer Science, Shanghai Jiao Tong University. 
 - *2018.09 - 2022.06*, Computer Science (IEEE Honored Class), Shanghai Jiao Tong University. 
 
 <span class='anchor' id='publications'></span>
@@ -62,7 +62,7 @@ Conference on Mobile Computing and Networking.</i> Acceptance rate = 19.0% (55/2
 
 ## Other Papers
 
-- <div class="pubtitle">ACM WWW'25</div> &nbsp; <b>[Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration](https://dl.acm.org/doi/10.1145/3696410.3714796).</b> <br /> Haibo Liu, <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Shengzhong Liu, Fan Wu. <br /> <i>Proceedings of the ACM on Web Conference 2025.</i> Acceptance rate = 19.8% (409/2062).<br /> [[paper](https://gongchenooo.github.io/assets/pdf/WWW25_ELITE_Paper.pdf) | [poster](https://gongchenooo.github.io/assets/pdf/WWW25_ELITE_Poster.pdf)]
+- <div class="pubtitle">ACM WWW'25</div> &nbsp; <b>[Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration](https://dl.acm.org/doi/10.1145/3696410.3714796).</b> <br /> Haibo Liu, <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Shengzhong Liu, Fan Wu. <br /> <i>Proceedings of the ACM on Web Conference 2025.</i> Acceptance rate = 19.8% (409/2062). <br /> [[paper](https://gongchenooo.github.io/assets/pdf/WWW25_ELITE_Paper.pdf) | [poster](https://gongchenooo.github.io/assets/pdf/WWW25_ELITE_Poster.pdf)]
 
 - <div class="pubtitle">ACM MM'23</div> &nbsp; <b>[Fine-Grained Music Plagiarism Detection: Revealing Plagiarists through Bipartite Graph Matching and a Comprehensive Large-Scale Dataset](https://dl.acm.org/doi/10.1145/3581783.3611831).</b> <br /> Wenxuan Liu, Tianyao He, <u><b>Chen Gong</b></u>, Ning Zhang, Hua Yang, Junchi Yan. <br /> <i>Proceedings of the 31st ACM International Conference on Multimedia.</i> Acceptance rate = 29.3% (902/3078). <br /> [[paper](https://gongchenooo.github.io/assets/pdf/MM23-BMMDet-Paper.pdf) | [code](https://github.com/xuan301/BMMDet_MPDSet) ]
 
