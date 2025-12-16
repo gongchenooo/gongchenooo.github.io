@@ -67,7 +67,8 @@ My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I h
 - <div class="pubtitle">DASFAA'21</div> &nbsp; <b>[Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35).</b> <br /> Tianzi Zang, Yanmin Zhu, <u><b>Chen Gong</b></u>, Haobing Liu, Bo Li. <br /> <i>International Conference on Database Systems for Advanced Applications.</i> <br /> <b><font color="#BD666D">CCF-B.</font></b> 
 
 # 🎖 Honors and Awards
-- National Scholarship of China, Ministry of Education, 2024
+- Young Science and Technology Scientists Sponsorship Program (中国科协青年科技人才培育工程博士生专项计划), China Association for Science and Technology, 2025 
+- National Scholarship of China (国家奖学金), Ministry of Education, 2024 
 - Outstanding Graduate Student, Shanghai Jiao Tong University (SJTU), 2022
 - CCF Elite Collegiate Award, China Computer Federation (CCF), 2021
 
