@@ -35,7 +35,7 @@ redirect_from:
 
 I'm currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Zhenzhe Zheng(郑臻哲)](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu(吴帆)](https://www.cs.sjtu.edu.cn/~fwu/). 
 
-My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I have focused on optimizing data processing pipelines for on-device maching learning (e.g., user data logging, feature computation and data sample selection).
+My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I have focused on optimizing data processing pipelines for on-device maching learning (e.g., user data logging [[SIGMETRICS'26](https://dl.acm.org/doi/10.1145/3771575)], feature computation[SenSys'26] and data sample selection [[KDD'25](https://dl.acm.org/doi/10.1145/3711896.3736823), [MobiCom'24](https://dl.acm.org/doi/10.1145/3636534.3690701), [WWW'23](https://dl.acm.org/doi/10.1145/3543507.3583426)]).
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. Student, School of Computer Science, Shanghai Jiao Tong University. 
@@ -67,10 +67,10 @@ My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I h
 - <div class="pubtitle">DASFAA'21</div> &nbsp; <b>[Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_35).</b> <br /> Tianzi Zang, Yanmin Zhu, <u><b>Chen Gong</b></u>, Haobing Liu, Bo Li. <br /> <i>International Conference on Database Systems for Advanced Applications.</i> <br /> <b><font color="#BD666D">CCF-B.</font></b> 
 
 # 🎖 Honors and Awards
-- Youth Talent Support Program for PhD Students (中国科协青年科技人才培育工程博士生专项计划), China Association for Science and Technology, 2025 
-- National Scholarship of China (国家奖学金), Ministry of Education, 2024 
-- Outstanding Graduate Student, Shanghai Jiao Tong University (SJTU), 2022
-- CCF Elite Collegiate Award, China Computer Federation (CCF), 2021
+-  Youth Talent Support Program - Doctoral Student Special Plan, CAST, 2025 (中国科协青年科技人才培育工程博士生专项计划)
+- National Scholarship of China , Ministry of Education, 2024 (国家奖学金)
+- Outstanding Graduate Student, Shanghai Jiao Tong University, 2022 
+- CCF Elite Collegiate Award, China Computer Federation (CCF), 2021 (CCF百优大学生)
 
 # 💻 Internships
 - *2021.09 - 2022.09*, "Federated Learning on Heterogeneous Edge Devices (异构终端联邦学习技术)", Huawei - Noah’s Ark Lab, Beijing, China. *Excellent Completion (优秀结题)*.
