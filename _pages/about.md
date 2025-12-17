@@ -35,7 +35,7 @@ redirect_from:
 
 I'm currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Zhenzhe Zheng(郑臻哲)](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu(吴帆)](https://www.cs.sjtu.edu.cn/~fwu/). 
 
-My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I have focused on optimizing data processing pipelines for on-device maching learning (e.g., user data logging [[SIGMETRICS'26](https://dl.acm.org/doi/10.1145/3771575)], feature computation[SenSys'26] and data sample selection [[KDD'25](https://dl.acm.org/doi/10.1145/3711896.3736823), [MobiCom'24](https://dl.acm.org/doi/10.1145/3636534.3690701), [WWW'23](https://dl.acm.org/doi/10.1145/3543507.3583426)]).
+My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I have focused on optimizing data processing pipelines for on-device maching learning (e.g., user data logging [[SIGMETRICS'26](https://dl.acm.org/doi/10.1145/3771575)], feature computation[[SenSys'26]()] and data sample selection [[KDD'25](https://dl.acm.org/doi/10.1145/3711896.3736823), [MobiCom'24](https://dl.acm.org/doi/10.1145/3636534.3690701), [WWW'23](https://dl.acm.org/doi/10.1145/3543507.3583426)]).
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. Student, School of Computer Science, Shanghai Jiao Tong University. 
