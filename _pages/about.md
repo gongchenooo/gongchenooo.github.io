@@ -46,7 +46,7 @@ My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I f
 
 ## First-Author Papers
 
-- <div class="pubtitle">IEEE/ACM TON'26</div> &nbsp; <b>[A Device-Cloud Collaborative Data Enrichment Framework for Continual Learning on Devices]().</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking, March, 2026.</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> <br /> [[paper]() | [code](https://github.com/gongchenooo/MobiCom24-Delta)]
+- <div class="pubtitle">IEEE/ACM TON'26</div> &nbsp; <b>[A Device-Cloud Collaborative Data Enrichment Framework for Continual Learning on Devices](https://ieeexplore.ieee.org/document/11419642).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking, March, 2026.</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> <br /> [[paper]() | [code](https://github.com/gongchenooo/MobiCom24-Delta)]
 
 - <div class="pubtitle">ACM SIGMETRICS'26</div> &nbsp; <b>[Optimizing Storage Overhead of User Behavior Log for ML-embedded Mobile Apps](https://dl.acm.org/doi/10.1145/3771575).</b> <br /> <u><b>Chen Gong</b></u>, Yan Zhuang, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br /> <i>Proceedings of the ACM on Measurement and Analysis of Computer Systems, Michigan, USA, 2026.</i> <br /> <b><font color="#BD666D">CCF-B.</font></b> Acceptance rate = 21.4% (24/112, summer round) <br /> [[paper](https://gongchenooo.github.io/assets/pdf/SigMetrics26-AdaLog-Paper.pdf) | slides]
 
