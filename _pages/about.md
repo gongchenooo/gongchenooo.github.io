@@ -35,7 +35,7 @@ redirect_from:
 
 I'm currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Zhenzhe Zheng(郑臻哲)](https://zhengzhenzhe220.github.io/) and [Prof. Fan Wu(吴帆)](https://www.cs.sjtu.edu.cn/~fwu/). 
 
-My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I focused on optimizing data processing pipelines for on-device AI models (e.g., raw data logging [[SIGMETRICS'26](https://dl.acm.org/doi/10.1145/3771575)], input feature computation[[SenSys'26]()], high-quality sample selection [[KDD'25](https://dl.acm.org/doi/10.1145/3711896.3736823), [TON'24](https://ieeexplore.ieee.org/document/10478325), [MobiCom'24](https://dl.acm.org/doi/10.1145/3636534.3690701), [WWW'23](https://dl.acm.org/doi/10.1145/3543507.3583426)]).
+My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I focused on optimizing data processing pipelines for on-device AI models (e.g., raw data logging [[SIGMETRICS'26](https://dl.acm.org/doi/10.1145/3771575)], input feature computation[[SenSys'26]()], high-quality sample selection [[TON'26](https://ieeexplore.ieee.org/document/11419642), [KDD'25](https://dl.acm.org/doi/10.1145/3711896.3736823), [TON'24](https://ieeexplore.ieee.org/document/10478325), [MobiCom'24](https://dl.acm.org/doi/10.1145/3636534.3690701), [WWW'23](https://dl.acm.org/doi/10.1145/3543507.3583426)]).
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. Student, School of Computer Science, Shanghai Jiao Tong University. 
@@ -46,7 +46,7 @@ My research interest focuses on *<u>Data-Centric Edge AI</u>*. Specifically, I f
 
 ## First-Author Papers
 
-- <div class="pubtitle">IEEE TON'26</div> &nbsp; <b>[A Device-Cloud Collaborative Data Enrichment Framework for Continual Learning on Devices](https://ieeexplore.ieee.org/document/11419642).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking, vol. 34, pp. 4570-4588, 2026.</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> <br /> [[paper]() | [code](https://github.com/gongchenooo/MobiCom24-Delta)]
+- <div class="pubtitle">IEEE TON'26</div> &nbsp; <b>[A Device-Cloud Collaborative Data Enrichment Framework for Continual Learning on Devices](https://ieeexplore.ieee.org/document/11419642).</b> <br /> <u><b>Chen Gong</b></u>, Zhenzhe Zheng, Fan Wu, Guihai Chen. <br /> <i>IEEE/ACM Transactions on Networking, vol. 34, pp. 4570-4588, 2026.</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> <br /> [[paper](https://ieeexplore.ieee.org/document/11419642) | [code](https://github.com/gongchenooo/MobiCom24-Delta)]
 
 - <div class="pubtitle">ACM SIGMETRICS'26</div> &nbsp; <b>[Optimizing Storage Overhead of User Behavior Log for ML-embedded Mobile Apps](https://dl.acm.org/doi/10.1145/3771575).</b> <br /> <u><b>Chen Gong</b></u>, Yan Zhuang, Zhenzhe Zheng, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen. <br /> <i>Proceedings of the ACM on Measurement and Analysis of Computer Systems, Michigan, USA, 2026.</i> <br /> <b><font color="#BD666D">CCF-B.</font></b> Acceptance rate = 21.4% (24/112, summer round) <br /> [[paper](https://arxiv.org/abs/2510.13405) | [slides](https://gongchenooo.github.io/assets/pdf/SigMetrics26_AdaLog_Slides.pdf)]
 
